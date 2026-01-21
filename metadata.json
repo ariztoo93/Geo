@@ -1,0 +1,7 @@
+{
+  "name": " Geo Revenue Insights v.01",
+  "description": "A smart site-selection tool that uses Gemini AI and Google Maps data to analyze potential revenue for businesses based on location, demographics, and competitive density.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
